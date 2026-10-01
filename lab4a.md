@@ -84,5 +84,13 @@ understand and follow academic integrity expectations.
 - Preventing academic integrity violations
 - Addressing suspected violations through established procedures
 
+## 3. Responsibilities
 
+### Student Responsibilities
 
+Students are responsible for:
+
+- Following assessment instructions.
+- Properly acknowledging sources.
+- Taking responsibility for their academic work.
+- Completing their own work.
