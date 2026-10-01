@@ -70,6 +70,10 @@ and explains how academic integrity concerns are addressed.
 -Sources and ideas must be properly acknowledged
 -Academic integrity appllies to assessments and other academic activites.
 
+## 2. Academic Integrity Program
+
+The Academic Integrity Program helps members of the Seneca community
+understand and follow academic integrity expectations.
 
 
 
