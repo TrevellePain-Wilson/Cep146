@@ -44,3 +44,12 @@ Things I enjoy doing:
 The purpose of the Academic Integrity Policy is to establish expectations
 for academic integrity and to explain the responsibilities of members of
 the Seneca community.
+
+
+## Key Definitions
+
+> **Academic integrity**refers to acting honestly, responsibly, and fairly
+> in academic work.
+
+## Key Terms
+
