@@ -9,7 +9,7 @@ Things I enjoy doing:
 - Spending time with friends
 - Taking long naps
 
-#Scra,bled Eggs
+# Scrabled Eggs
 
 
 ### Ingredients
@@ -32,3 +32,6 @@ Things I enjoy doing:
 6.stir the eggs untill they are cooked.
 7.Add salt and pepper to taste.
 8.Serve and enjoy.
+
+
+**Tip:** Cook the eggs gently and try to advoid overcooking them. 
