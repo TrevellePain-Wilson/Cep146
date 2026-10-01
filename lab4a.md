@@ -12,7 +12,7 @@ Things I enjoy doing:
 # Scrabled Eggs
 
 
-### Ingredients
+## Ingredients
 
 - 2 eggs 
 - 1 tablespoon of butter
@@ -22,7 +22,7 @@ Things I enjoy doing:
 
 
 
-### Cooking Steps 
+## Cooking Steps 
 
 1.Crack the eggs into a bowl.
 2.Pour Milk into the bowl.(Optional)
