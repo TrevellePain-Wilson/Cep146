@@ -11,3 +11,10 @@ Things I enjoy doing:
 
 #Scra,bled Eggs
 
+1.Crack the eggs into a bowl.
+2.Whisk the eggs together.
+3.Mrlt the butter in a pan over medium heat.
+4.Pour the eggs into a the pan.
+5.stir the eggs untill they are cooked.
+6.Add salt and pepper to taste.
+7.Serve and enjoy.
