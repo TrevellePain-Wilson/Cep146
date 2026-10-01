@@ -94,3 +94,17 @@ Students are responsible for:
 - Properly acknowledging sources.
 - Taking responsibility for their academic work.
 - Completing their own work.
+
+### Faculty Responsibilities
+
+Faculty and other members of the academic community are responsible
+for communicating academic integrity expectations and following the
+appropriate procedures when concerns arise.
+
+## 4. Sanctions
+
+Academic integrity violations may result in sanctions according to
+the applicable policy and procedures.
+
+**Sanctions** depend on the circumstances of the violation and the
+requirements of the Academic Integrity Policy.
