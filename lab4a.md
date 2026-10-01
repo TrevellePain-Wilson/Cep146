@@ -117,3 +117,9 @@ requirements of the Academic Integrity Policy.
 | 2 | The concern is reviewed according to the applicable procedure. |
 | 3 | Relevant information and evidence are considered. |
 | 4 | The appropriate decision and outcome are communicated. |
+
+## Related Resources
+
+- [Seneca Academic Integrity Policy](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html)
+- [Seneca Policies](https://www.senecapolytechnic.ca/about/policies.html)
+- [Seneca Polytechnic](https://www.senecapolytechnic.ca/)
