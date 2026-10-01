@@ -35,3 +35,12 @@ Things I enjoy doing:
 
 
 **Tip:** Cook the eggs gently and try to advoid overcooking them. 
+
+
+
+# Exercise 3: Seneca Academic Integrity Policy 
+
+## Purpose
+The purpose of the Academic Integrity Policy is to establish expectations
+for academic integrity and to explain the responsibilities of members of
+the Seneca community.
