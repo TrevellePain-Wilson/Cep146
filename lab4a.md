@@ -77,3 +77,12 @@ understand and follow academic integrity expectations.
 
 
 
+### Program Activities
+
+- Educating students about academic integrity
+- Providing information about academic expectations
+- Preventing academic integrity violations
+- Addressing suspected violations through established procedures
+
+
+
