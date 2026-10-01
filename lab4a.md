@@ -53,3 +53,10 @@ the Seneca community.
 
 ## Key Terms
 
+-**Academic Misconduct**
+-**Academic Integrity**
+-**Cheating**
+-**Plagiarism**
+
+
+
