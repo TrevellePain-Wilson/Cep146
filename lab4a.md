@@ -60,3 +60,16 @@ the Seneca community.
 
 
 
+## 1. General
+
+The Academic Integrity Policy establishes expectations for academic work
+and explains how academic integrity concerns are addressed.
+
+-Students are expected to complete their own academic work.
+-Academic work must be comleted honestly 
+-Sources and ideas must be properly acknowledged
+-Academic integrity appllies to assessments and other academic activites.
+
+
+
+
