@@ -14,16 +14,21 @@ Things I enjoy doing:
 
 ### Ingredients
 
-
+- 2 eggs 
+- 1 tablespoon of butter
+- Salt
+- Pepper
+- Milk(optional)
 
 
 
 ### Cooking Steps 
 
 1.Crack the eggs into a bowl.
-2.Whisk the eggs together.
-3.Mrlt the butter in a pan over medium heat.
-4.Pour the eggs into a the pan.
-5.stir the eggs untill they are cooked.
-6.Add salt and pepper to taste.
-7.Serve and enjoy.
+2.Pour Milk into the bowl.(Optional)
+3.Whisk the eggs together.
+4.Mrlt the butter in a pan over medium heat.
+5.Pour the eggs into a the pan.
+6.stir the eggs untill they are cooked.
+7.Add salt and pepper to taste.
+8.Serve and enjoy.
